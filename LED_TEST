@@ -1,7 +1,7 @@
-```console
+```c
 pi@raspberrypi:~ $ cd Development/drivers/test/
 pi@raspberrypi:~/Development/drivers/test $ nano test_driver.c
-```console
+```c
 ddd
 ```
 pi@raspberrypi:~/Development/drivers/test $ ddd                 
