@@ -1,8 +1,0 @@
-#LED_TEST
-## 실행창
-```console
-pi@raspberrypi:~ $ cd Development/drivers/test/
-pi@raspberrypi:~/Development/drivers/test $ nano test_driver.c
-pi@raspberrypi:~/Development/drivers/test $ ddd                 
-```
-## 
