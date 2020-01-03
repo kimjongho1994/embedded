@@ -47,7 +47,8 @@ static void __exit JongHo_TEST_exit(void)
 
 static void __exit JongHo_TEST_exit(void)
 {
-    iounmap(map);                                                                                                           printk(KERN_INFO "call JongHo_TEST_exit\n");
+    iounmap(map);
+    printk(KERN_INFO "call JongHo_TEST_exit\n");
 }
 
 module_init(JongHo_TEST_init);
